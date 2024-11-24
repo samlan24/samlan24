@@ -7,8 +7,11 @@ I’m also a Technical Writer who’s all about breaking down tricky tech topics
 
 Skills:  REACT / FLASK / MySQL / MongoDB
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Personal projects 
+- 🌱 I’m currently learning Advanced Python 
+- 📫 How to reach me: allan@allanwanjiku.tech 
+- 😄 Pronouns: he/him 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samlan24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/allan-wanjiku//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.allanwanjiku.tech/)  
 
